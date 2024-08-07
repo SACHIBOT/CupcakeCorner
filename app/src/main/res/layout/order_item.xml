@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:padding="16dp"
+    android:background="@drawable/order_item_background">
+
+
+    <TextView
+        android:id="@+id/text_user_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textSize="16sp"
+        android:textColor="@android:color/black" /> <!-- Added default text color -->
+
+
+    <TextView
+        android:id="@+id/text_category_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textSize="16sp"
+        android:textColor="@android:color/black" /> <!-- Added default text color -->
+
+    <TextView
+        android:id="@+id/text_quantity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textSize="16sp"
+        android:textColor="@android:color/black" /> <!-- Added default text color -->
+
+    <TextView
+        android:id="@+id/text_pickup_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textSize="16sp"
+        android:textColor="@android:color/black" /> <!-- Added default text color -->
+
+    <Button
+        android:id="@+id/btn_ready"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ready" />
+
+    <Button
+        android:id="@+id/btn_collected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Collected"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:visibility="gone" />
+</LinearLayout>
