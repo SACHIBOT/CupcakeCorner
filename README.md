@@ -1,0 +1,16 @@
+# Cupcake Corner App
+
+Welcome to the Cupcake Corner Bakery System Management App, a comprehensive Android app designed for cupcake bakery owners to manage their cupcake business efficiently. This app is built by me for educational purposes, but it should be implemented for production use if needed.
+
+## Features
+
+### Bakery Owner Features
+
+- **Cupcake Category Management:** Add, view, update, and delete cupcake categories with ease.
+- **Order Management:** Manage orders from customers, including viewing, updating, and deleting orders.
+
+### Customer Features
+
+- **View Cupcakes:** Browse through available cupcake categories and view details.
+- **Place Orders:** Easily place orders for desired cupcakes.
+
