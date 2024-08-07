@@ -18,5 +18,6 @@ Welcome to the Cupcake Corner Bakery System Management App, a comprehensive Andr
 
 Watch the video to understand how this app works:
 
-[![Tutorial Video](https://telegra.ph/file/c0ea6c5303dad16bb118f.jpg)](https://sachibot.github.io/SACHIBOT/videos/cupcakecorner.mp4)
-
+<a href="https://sachibot.github.io/SACHIBOT/videos/cupcakecorner.mp4" target="_blank">
+    <img src="https://telegra.ph/file/c0ea6c5303dad16bb118f.jpg" alt="Tutorial Video" width="320" height="568">
+</a>
