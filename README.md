@@ -14,3 +14,8 @@ Welcome to the Cupcake Corner Bakery System Management App, a comprehensive Andr
 - **View Cupcakes:** Browse through available cupcake categories and view details.
 - **Place Orders:** Easily place orders for desired cupcakes.
 
+## Tutorial Video
+
+Watch the video to understand how this app works:
+
+[Watch Tutorial Video](https://sachibot.github.io/SACHIBOT/videos/cupcakecorner.mp4)
